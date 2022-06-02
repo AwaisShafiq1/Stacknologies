@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Stacknologies/static/css/main.82672c34.css",
+    "main.js": "/Stacknologies/static/js/main.aa3d55ac.js",
+    "static/js/787.635aedaa.chunk.js": "/Stacknologies/static/js/787.635aedaa.chunk.js",
+    "static/media/5.jpg": "/Stacknologies/static/media/5.91ba679b282500f6dca7.jpg",
+    "static/media/3.jpg": "/Stacknologies/static/media/3.727e14272d3bfc2dd8c7.jpg",
+    "static/media/6.jpg": "/Stacknologies/static/media/6.b4b3c8d2f3686965afd5.jpg",
+    "static/media/2.jpg": "/Stacknologies/static/media/2.64df6f405733aee1fe05.jpg",
+    "static/media/4.jpg": "/Stacknologies/static/media/4.8090e61ca2fa6309bd5a.jpg",
+    "static/media/1.jpg": "/Stacknologies/static/media/1.6f168aaacb3c3d55451a.jpg",
+    "static/media/emptystreet.svg": "/Stacknologies/static/media/emptystreet.5af0c8b2ccf96fa90f1838927145b04d.svg",
+    "static/media/smalltown.svg": "/Stacknologies/static/media/smalltown.a0390e871531095af079a6ced611d9aa.svg",
+    "index.html": "/Stacknologies/index.html",
+    "main.82672c34.css.map": "/Stacknologies/static/css/main.82672c34.css.map",
+    "main.aa3d55ac.js.map": "/Stacknologies/static/js/main.aa3d55ac.js.map",
+    "787.635aedaa.chunk.js.map": "/Stacknologies/static/js/787.635aedaa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82672c34.css",
+    "static/js/main.aa3d55ac.js"
+  ]
+}
