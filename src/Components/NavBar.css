@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Beau+Rivage&family=Mulish&display=swap');
+
+
+*{
+    margin:0; 
+     padding:0;
+    box-sizing: border-box;
+    font-family: "Muli" ,  sans-serif;
+}
+   
+.navbar {
+    background-color: #fff !important;
+
+}
+
+.navbar-brand{
+    font-size: 1.6rem !important;
+    color: #3698db !important;
+}
+
+.navbar a {
+    font-size: 1.1rem;
+    text-transform: capitalize;
+    
+}
+
+.menu_active {
+    font-weight: bold;
+    border-bottom: 1px solid #565387;
+}
+
+.navbar a:hover {
+    color: #3698db !important;
+}
+.nav-link{
+        color: #3698db;
+    
+}
+
